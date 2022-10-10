@@ -1,2 +1,8 @@
 *.class
 *.log
+target
+.idea
+.bsp
+null
+sbt-launch-*.jar
+*.ipynb*

@@ -1,0 +1,6 @@
+.idea
+.bsp
+null
+.git
+target/global-logging/*
+target/streams/*
